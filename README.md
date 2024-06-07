@@ -50,4 +50,4 @@ Adicione um readme de como executar sua aplicação
 Diferenciais:
 ● Realize commits bem escritos;
 ● Realize os testes necessários;
-● Mantenha um código limpo;
+● Mantenha um código limpo.
