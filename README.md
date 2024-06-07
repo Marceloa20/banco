@@ -1,5 +1,5 @@
 Banco Avinte
-Bem-vindo ao Banco Avinte
+*Bem-vindo ao Banco Avinte*
 
 Criar um sistema de gestão bancária por meio de uma API, composta por dois endpoints:
 “/conta” e “/transacao”. O endpoint “/conta” deve criar e fornecer informações sobre o número da conta e o saldo. O endpoint “/transacao” será responsável por realizar diversas operações financeiras.
